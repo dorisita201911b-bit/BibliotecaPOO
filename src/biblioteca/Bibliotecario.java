@@ -7,7 +7,7 @@ public class Bibliotecario extends  Usuario {
         super(nombre, id);
         this.turno = turno;
     }
-Yiber
+
     public String getTurno() {
         return turno;
     }
